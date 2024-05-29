@@ -1,0 +1,2 @@
+# Task2
+Used HTML,CSS and JAVASCRIPT
